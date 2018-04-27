@@ -1,0 +1,22 @@
+D:\Всё\Документы\Разное\TowerDefenceGame\TowerDefenceGame\bin\Release\TowerDefenceGame.exe.config
+D:\Всё\Документы\Разное\TowerDefenceGame\TowerDefenceGame\bin\Release\TowerDefenceGame.exe
+D:\Всё\Документы\Разное\TowerDefenceGame\TowerDefenceGame\bin\Release\TowerDefenceGame.pdb
+D:\Всё\Документы\Разное\TowerDefenceGame\TowerDefenceGame\obj\Release\TowerDefenceGame.TowerDefenceGame_Form.resources
+D:\Всё\Документы\Разное\TowerDefenceGame\TowerDefenceGame\obj\Release\TowerDefenceGame.Properties.Resources.resources
+D:\Всё\Документы\Разное\TowerDefenceGame\TowerDefenceGame\obj\Release\TowerDefenceGame.csproj.GenerateResource.Cache
+D:\Всё\Документы\Разное\TowerDefenceGame\TowerDefenceGame\obj\Release\TowerDefenceGame.exe
+D:\Всё\Документы\Разное\TowerDefenceGame\TowerDefenceGame\obj\Release\TowerDefenceGame.pdb
+D:\Всё\Документы\Разное\TowerDefenceGame\TowerDefenceGame\obj\Release\TowerDefenceGame.SelectDefence_Form.resources
+C:\Users\G R I D I\Desktop\TowerDefenceGame\TowerDefenceGame\TowerDefenceGame\bin\Release\TowerDefenceGame.exe.config
+C:\Users\G R I D I\Desktop\TowerDefenceGame\TowerDefenceGame\TowerDefenceGame\obj\Release\TowerDefenceGame.exe
+C:\Users\G R I D I\Desktop\TowerDefenceGame\TowerDefenceGame\TowerDefenceGame\obj\Release\TowerDefenceGame.pdb
+C:\Users\G R I D I\Desktop\TowerDefenceGame\TowerDefenceGame\TowerDefenceGame\bin\Release\TowerDefenceGame.exe
+C:\Users\G R I D I\Desktop\TowerDefenceGame\TowerDefenceGame\TowerDefenceGame\bin\Release\TowerDefenceGame.pdb
+C:\Users\G R I D I\Desktop\TowerDefenceGame\TowerDefenceGame\TowerDefenceGame\obj\Release\TowerDefenceGame.csprojResolveAssemblyReference.cache
+C:\Users\G R I D I\Desktop\TowerDefenceGame\TowerDefenceGame\TowerDefenceGame\obj\Release\TowerDefenceGame.SelectDefence_Form.resources
+C:\Users\G R I D I\Desktop\TowerDefenceGame\TowerDefenceGame\TowerDefenceGame\obj\Release\TowerDefenceGame.TowerDefenceGame_Form.resources
+C:\Users\G R I D I\Desktop\TowerDefenceGame\TowerDefenceGame\TowerDefenceGame\obj\Release\TowerDefenceGame.Properties.Resources.resources
+C:\Users\G R I D I\Desktop\TowerDefenceGame\TowerDefenceGame\TowerDefenceGame\obj\Release\TowerDefenceGame.csproj.GenerateResource.Cache
+E:\Files\СЕВГУ\4 семестр\KURS OOP\TowerDefenceGame\TowerDefenceGame\TowerDefenceGame\bin\Release\TowerDefenceGame.exe.config
+E:\Files\СЕВГУ\4 семестр\KURS OOP\TowerDefenceGame\TowerDefenceGame\TowerDefenceGame\obj\Release\TowerDefenceGame.exe
+E:\Files\СЕВГУ\4 семестр\KURS OOP\TowerDefenceGame\TowerDefenceGame\TowerDefenceGame\obj\Release\TowerDefenceGame.pdb

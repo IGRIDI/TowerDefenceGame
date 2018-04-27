@@ -1,0 +1,9 @@
+D:\Всё\Документы\Разное\TowerDefenceGame\TowerDefenceGame\bin\Debug\TowerDefenceGame.exe.config
+D:\Всё\Документы\Разное\TowerDefenceGame\TowerDefenceGame\bin\Debug\TowerDefenceGame.exe
+D:\Всё\Документы\Разное\TowerDefenceGame\TowerDefenceGame\bin\Debug\TowerDefenceGame.pdb
+D:\Всё\Документы\Разное\TowerDefenceGame\TowerDefenceGame\obj\Debug\TowerDefenceGame.TowerDefenceGame_Form.resources
+D:\Всё\Документы\Разное\TowerDefenceGame\TowerDefenceGame\obj\Debug\TowerDefenceGame.Properties.Resources.resources
+D:\Всё\Документы\Разное\TowerDefenceGame\TowerDefenceGame\obj\Debug\TowerDefenceGame.csproj.GenerateResource.Cache
+D:\Всё\Документы\Разное\TowerDefenceGame\TowerDefenceGame\obj\Debug\TowerDefenceGame.exe
+D:\Всё\Документы\Разное\TowerDefenceGame\TowerDefenceGame\obj\Debug\TowerDefenceGame.pdb
+D:\Всё\Документы\Разное\TowerDefenceGame\TowerDefenceGame\obj\Debug\TowerDefenceGame.SelectDefence_Form.resources
